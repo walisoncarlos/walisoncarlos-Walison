@@ -1,0 +1,7 @@
+quais colunas são numéricas?
+mostre histograma de Amount
+há outliers em Amount?
+faça cluster com 3 grupos
+mostre correlações top
+qual a média de Amount?
+há tendência temporal na coluna Time?
